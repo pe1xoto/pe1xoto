@@ -1,6 +1,6 @@
+#### Hi there 👋
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/pe1xoto/pe1xoto/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
+<p align="left">I'm Peixoto (19 y.o) ! 😎.</p>&nbsp;
 
 <p align="center">🐟 I tackle big challenges using tech. <br><br> Learning more every day to become a Front and Back End developer with general knowledge and expertise in design as well.</p>&nbsp;
 
