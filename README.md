@@ -27,7 +27,6 @@
 
 #### Workstation Tools:
 ![VScode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
 ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-000000?style=for-the-badge&logo=heidisql&logoColor=white)&nbsp; <!-- HeidiSQL -->
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp; <!-- Docker -->
